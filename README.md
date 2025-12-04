@@ -34,4 +34,4 @@ Assurez-vous d'avoir Python 3 installé sur votre machine.
 
 ## 📫 Contact
 Développé par Kevin Six, étudiant en BUT Informatique (Recherche d'alternance).
-[Lien vers votre profil LinkedIn] / [Lien vers votre Portfolio principal]
+https://www.linkedin.com/in/sixkevin62/ / https://sixkevin.github.io/portfolio/
